@@ -3,6 +3,9 @@
 <div align="center">
 <img width="300px" height="auto" src="./docs/figures/gridworld.png">
 </div>
+<div align="center">
+<img width="300px" height="auto" src="./docs/figures/example_map.png">
+</div>
 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
