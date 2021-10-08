@@ -1,0 +1,6 @@
+gym
+psutil
+jsbeautifier
+matplotlib
+imageio
+xmltodict
