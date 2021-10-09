@@ -13,7 +13,7 @@
 ### Introduction
 
 Code accompanying the paper 
-"Ranking Cost: Building An Efficient and Scalable Circuit Routing Planner with Evolution-Based Optimization". [[arxiv](https://github.com/TARTRL/gridworld/tree/RC_release)]
+"Ranking Cost: Building An Efficient and Scalable Circuit Routing Planner with Evolution-Based Optimization". [[arxiv](https://github.com/TARTRL/RankingCost)]
 
 ### Install
 - Python 3+
