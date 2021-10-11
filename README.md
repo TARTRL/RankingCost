@@ -13,7 +13,7 @@
 ### Introduction
 
 Code accompanying the paper 
-"Ranking Cost: Building An Efficient and Scalable Circuit Routing Planner with Evolution-Based Optimization". [[arxiv](https://github.com/TARTRL/RankingCost)]
+"Ranking Cost: Building An Efficient and Scalable Circuit Routing Planner with Evolution-Based Optimization". [[arxiv](https://arxiv.org/abs/2110.03939)]
 
 ### Install
 - Python 3+
@@ -33,12 +33,12 @@ and the cost maps will be saved to `map01_cost_map_0.png` and `map01_cost_map_1.
 ### Cite
 
 ```
-@inproceedings{
-shiyu2021ranking,
-title={Ranking Cost: Building An Efficient and Scalable Circuit Routing Planner with Evolution-Based Optimization},
-author={Shiyu Huang, Bin Wang, Dong Li, Jianye Hao, Ting Chen and Jun Zhu},
-booktitle={Submitted to AISTATS},
-year={2021},
-note={under review}
+@misc{huang2021ranking,
+      title={Ranking Cost: Building An Efficient and Scalable Circuit Routing Planner with Evolution-Based Optimization}, 
+      author={Shiyu Huang and Bin Wang and Dong Li and Jianye Hao and Ting Chen and Jun Zhu},
+      year={2021},
+      eprint={2110.03939},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
 ```
