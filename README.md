@@ -18,7 +18,7 @@ Code accompanying the paper
 ### Install
 - Python 3+
 - `pip install -r requirements.txt`
-- `pip install -e .`
+- `pip install .`
 
 ### Run Ranking Cost Algorithm
 ```
